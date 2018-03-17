@@ -4,7 +4,6 @@
   "description": "buyersWorkbench interface for online PO processing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
@@ -27,7 +26,6 @@
     "path": "^0.12.7",
     "sequelize": "^4.36.0"
   },
-  "scripts": {
-    "start": "node server.js"
-  }
+  "devDependencies": {},
+  "keywords": []
 }
