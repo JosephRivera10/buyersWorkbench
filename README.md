@@ -1,5 +1,5 @@
 # Pied Piper ERP
-Buyer – Enterprise Resource Planning System
+Buyer â€“ Enterprise Resource Planning System
 
 ## Description
 
@@ -50,6 +50,6 @@ If the user clicks on the hamburger in the top left corner of the page and vendo
 
 ## How to run the program
 
-You can simply go to our deployed site through [Heroku] (https://pied-piper-bw.herokuapp.com/iteminfo) 
+You can simply go to our deployed site through [Heroku] (https://pied-piper-bw.herokuapp.com) 
 
 
